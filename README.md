@@ -1,4 +1,4 @@
-# flutter_ui_design_task
+# Restaurant App
 
 A new Flutter project.
 
